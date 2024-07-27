@@ -9,7 +9,7 @@ interface Course {
     title: string,
     slug: string,
     description: string,
-    price: number,
+    price: string,
     instructor: string,
     isFeatured: Boolean
 }
