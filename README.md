@@ -1,4 +1,4 @@
-App link : [music-app[(https://music-app-by-sanjay.netlify.app)
+App link : [music-app](https://music-app-by-sanjay.netlify.app)
 
 
 
